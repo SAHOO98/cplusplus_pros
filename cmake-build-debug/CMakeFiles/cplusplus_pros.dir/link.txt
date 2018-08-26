@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cplusplus_pros.dir/main.cpp.o CMakeFiles/cplusplus_pros.dir/Linked_list.cpp.o  -o cplusplus_pros 

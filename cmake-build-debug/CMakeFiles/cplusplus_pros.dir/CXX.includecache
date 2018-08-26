@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/uzumaki/cplusplus_pros/Linked_list.cpp
+iostream
+-
+Linked_list.h
+/home/uzumaki/cplusplus_pros/Linked_list.h
+
+/home/uzumaki/cplusplus_pros/Linked_list.h
+
+/home/uzumaki/cplusplus_pros/main.cpp
+iostream
+-
+Linked_list.h
+/home/uzumaki/cplusplus_pros/Linked_list.h
+
